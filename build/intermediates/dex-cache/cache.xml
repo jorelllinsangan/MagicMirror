@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-5e8f686c11015b13d7d088bcd257b5dbf46041ba.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc82596d7f7683c8b3a7e5715a2ed5295c586887">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-4bc055ef3e8a4b41f67cf135c5dd7d0189ebd8a8.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-4c4c02c16aeb31a9293354f04074767635dc6896.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d18ba1d0eff55680fdf9a35f70a6091e4bc1adcb">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-d44efaca251b6e63d2b37dfed4e51ed958c3b9c8.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-4526a89da9420175eb19d5c228db6b4193b56ccb.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e99413cdc93bd7b001d312a4a33d25ac21042f69">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-c78e16cfb9bead3427e006dd5d29e037852f4c59.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-2591e193ecb9f7dc0760c1caf760370a3da22ce3.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/gson-2.3.1-ae41e52189d74f74642e2a935b2851f68b956d2e.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-9bdddc7cde7220212374c5df7f09fe78041f8395.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-0ab11f8da316957ef5b46435239e568a741d71c0.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-bcc18df2f59c1d22c6f77ca7e3749376974f8a12.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/.gradle/caches/modules-2/files-2.1/com.github.ahorn/android-rss/cf40b89/79d4f4c648245742fcc8cbabae83d606c899c85e/android-rss-cf40b89.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79d4f4c648245742fcc8cbabae83d606c899c85e">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/android-rss-cf40b89-f82af2df31c85c44bcb9a0c338aef6ae95e0e2ed.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-3471ae0007edaaa30eca7433c26b0a755f34dcb6.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0c7f9fb9a729166c69fa585e01be2fe8fab4f45c">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/classes-41b298b3ceac541b4a7768889e215f27160a06f4.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d2879987731828f7ccf3a5f3c339a15fb950c3c8.jar" />
+    </item>
+    <item
+        jar="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Jorell/Documents/HomeMirror/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f2e90548ed8c6b38282e2c6caedb39fd91123248.jar" />
+    </item>
+
+</items>
