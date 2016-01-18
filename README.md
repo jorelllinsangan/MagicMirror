@@ -1,3 +1,10 @@
+Clone existing code from the HomeMirror project on Github and currently modifying the project to suite my needs.
+
+Adding the following features:
+	- Transit times
+	- Day schedule
+	- Hourly forecast
+
 # HomeMirror
 Android application powering the mirror in my house
 
